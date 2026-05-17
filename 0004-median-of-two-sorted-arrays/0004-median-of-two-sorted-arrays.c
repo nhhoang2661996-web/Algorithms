@@ -1,7 +1,7 @@
-int max(int a, int b) {
+inline int max(int a, int b) {
     return (a > b) ? a : b;
 }
-int min(int a, int b) {
+inline int min(int a, int b) {
     return (a < b) ? a : b;
 }
 double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Size) {
