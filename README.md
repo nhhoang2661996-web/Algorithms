@@ -18,6 +18,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
@@ -47,6 +48,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
