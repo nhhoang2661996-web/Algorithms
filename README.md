@@ -59,6 +59,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0986-interval-list-intersections](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0986-interval-list-intersections) |
+| [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0986-interval-list-intersections](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,4 +161,5 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
