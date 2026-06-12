@@ -56,6 +56,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
@@ -67,6 +68,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
