@@ -85,6 +85,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0704-binary-search](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0986-interval-list-intersections](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -119,6 +120,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
