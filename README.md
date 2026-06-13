@@ -89,6 +89,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0986-interval-list-intersections](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
@@ -154,6 +155,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -196,6 +198,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
