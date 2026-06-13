@@ -77,6 +77,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -151,6 +152,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Design
 |  |
@@ -186,4 +188,16 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
