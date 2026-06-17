@@ -23,21 +23,17 @@ int** floodFill(int** image, int imageSize, int* imageColSize, int sr, int sc, i
     image[sr][sc] = color;
     while(front<rear){
         int size = rear - front;
-        for(int i = 0 ; i<size ; i ++){
-            int row = queue[front] / code;
-            int col = queue[front] % code;
-            front++;
-            for (int i = 0; i < 4; i++){
-                int newRow = row + dRow[i];
-                int newCol = col + dCol[i];
-                if(newRow < 0 || newRow >= imageSize || newCol < 0 || newCol >= colSize || image[newRow][newCol] != old || image[newRow][newCol] == color) continue;
-                image[newRow][newCol] = color;
-                queue[rear++] = newRow * code + newCol;
-            }
+        int row = queue[front] / code;
+        int col = queue[front] % code;
+        front++;
+        for (int i = 0; i < 4; i++){
+            int newRow = row + dRow[i];
+            int newCol = col + dCol[i];
+            if(newRow < 0 || newRow >= imageSize || newCol < 0 || newCol >= colSize || image[newRow][newCol] != old || image[newRow][newCol] == color) continue;
+            image[newRow][newCol] = color;
+            queue[rear++] = newRow * code + newCol;
         }
     }
-    for (int i = 0; i < imageSize; i++) {
-        (*returnColumnSizes)[i] = imageColSize[i];
-    }
+    
     return image;
 }
