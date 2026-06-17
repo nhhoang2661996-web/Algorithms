@@ -84,6 +84,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
@@ -160,6 +161,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -188,6 +190,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +223,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
