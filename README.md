@@ -94,6 +94,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0986-interval-list-intersections](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Monotonic Stack
@@ -161,6 +162,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Design
 |  |
 | ------- |
@@ -213,6 +215,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
