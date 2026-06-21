@@ -40,6 +40,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
@@ -204,6 +205,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
@@ -211,6 +213,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+| [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
@@ -238,6 +241,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
