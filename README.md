@@ -9,6 +9,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -42,6 +43,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
@@ -117,6 +119,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sweep Line
@@ -259,6 +262,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
 ## Backtracking
 |  |
