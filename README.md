@@ -58,6 +58,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
 |  |
@@ -210,6 +211,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -262,6 +264,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
 ## Backtracking
