@@ -267,6 +267,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0476-number-complement) |
 ## Backtracking
 |  |
 | ------- |
