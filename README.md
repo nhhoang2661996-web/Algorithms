@@ -32,6 +32,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -257,6 +258,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 ## Bit Manipulation
 |  |
@@ -268,10 +270,15 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0476-number-complement) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
